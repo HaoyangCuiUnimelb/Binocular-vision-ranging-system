@@ -1,0 +1,15 @@
+﻿生成启动时间为 2016-10-31 18:26:05。
+     1>项目“E:\My_workspace\VS2012\双目\双目资料包\代码\校正\保存图像\SavePicsDS\SavePicsDS\SavePicsDS.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt SavePicsDS.cpp
+         SavePicsDS.cpp
+     1>e:\my_workspace\vs2012\双目\双目资料包\代码\校正\保存图像\savepicsds\savepicsds\directshow\include\uuids.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\My_workspace\VS2012\双目\双目资料包\代码\校正\保存图像\SavePicsDS\Debug\SavePicsDS.exe" /INCREMENTAL /NOLOGO opencv_calib3d2413d.lib opencv_contrib2413d.lib opencv_core2413d.lib opencv_features2d2413d.lib opencv_flann2413d.lib opencv_gpu2413d.lib opencv_highgui2413d.lib opencv_imgproc2413d.lib opencv_legacy2413d.lib opencv_ml2413d.lib opencv_nonfree2413d.lib opencv_objdetect2413d.lib opencv_ocl2413d.lib opencv_photo2413d.lib opencv_stitching2413d.lib opencv_superres2413d.lib opencv_ts2413d.lib opencv_video2413d.lib opencv_videostab2413d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\My_workspace\VS2012\双目\双目资料包\代码\校正\保存图像\SavePicsDS\Debug\SavePicsDS.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\My_workspace\VS2012\双目\双目资料包\代码\校正\保存图像\SavePicsDS\Debug\SavePicsDS.lib" /MACHINE:X86 Debug\CameraDS.obj
+         Debug\SavePicsDS.obj
+         SavePicsDS.vcxproj -> E:\My_workspace\VS2012\双目\双目资料包\代码\校正\保存图像\SavePicsDS\Debug\SavePicsDS.exe
+     1>已完成生成项目“E:\My_workspace\VS2012\双目\双目资料包\代码\校正\保存图像\SavePicsDS\SavePicsDS\SavePicsDS.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.06
